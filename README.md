@@ -124,8 +124,7 @@ Each job application includes:
 
 Clone the repo:
 ```bash
-git clone https://github.com/the-bipu/nextjs-starters.git
-cd nextjs-starters/jobs-tracker
+git clone https://github.com/rajharsh05/jobs-tracker.git
 ```
 
 Install dependencies:
