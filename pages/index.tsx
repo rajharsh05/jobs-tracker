@@ -47,7 +47,7 @@ const Index = () => {
                             </Link>
                             <div className='w-auto flex flex-row gap-2'>
                                 <Link
-                                    href="https://github.com/the-bipu/jobs-tracker"
+                                    href="https://github.com/rajharsh05/jobs-tracker"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
